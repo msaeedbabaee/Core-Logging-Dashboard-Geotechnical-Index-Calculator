@@ -1,6 +1,4 @@
-Here is the updated code for the **Core Logging Dashboard & Geotechnical Index Calculator** with all text, comments, labels, and UI elements written entirely in **English**.
 
-```python
 import matplotlib.patches as patches
 import matplotlib.pyplot as plt
 import numpy as np
