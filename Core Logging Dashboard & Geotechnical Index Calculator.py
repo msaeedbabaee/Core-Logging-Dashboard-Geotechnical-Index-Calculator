@@ -270,4 +270,4 @@ st.markdown("---")
 st.subheader("🎨 Core Barrel Visualization")
 plot_core_log(run_length, edited_df)
 
-```
+
